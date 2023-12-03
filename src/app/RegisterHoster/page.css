@@ -1,0 +1,8 @@
+.background {
+    background-image: url("https://blog.tiket.com/wp-content/uploads/2021/02/7.-Candi-Borobudur-1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-bottom: auto;
+    position: relative;
+}
